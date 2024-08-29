@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+}
+.n1{
+    background-color: rgb(144, 79, 206);
+    padding: 20px;
+    width: 900px;
+    height: 550px;
+    border-radius: 700px;
+    
+}
+.n2{
+    background-color: hsl(298, 77%, 27%);
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    border-radius: 70px;
+
+}
+.n3{
+    background-color: rgb(146, 66, 126);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+
+
+}
+.n4{
+    background-color: rgb(163, 37, 96);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+    
+}
+.n5{
+    background-color: rgb(238, 108, 231);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+
+}
+.n6{
+    background-color: rgb(255, 0, 157);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+
+}
+.n7{
+    background-color: rgb(202, 116, 226);
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+
+}
+.nn2{
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+
+}
